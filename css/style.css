@@ -1,0 +1,13 @@
+h1{
+    text-align:center;  
+}
+.card-header>p{
+    display:flex;
+    justify-content: space-between;
+}
+.card-header>p>i{
+    cursor: pointer;
+}
+span{
+    cursor:pointer;
+}
